@@ -12,10 +12,10 @@
     </ParallaxLayer>
 
     <ParallaxLayer {offset} rate={0.3}>
-        <Stars count={15} starRadius={2} />
+        <Stars count={20} starRadius={2} />
     </ParallaxLayer>
     
     <ParallaxLayer {offset} rate={0.1}>
-        <Stars count={15} starRadius={1} />
+        <Stars count={25} starRadius={1} />
     </ParallaxLayer>
 </Line>
